@@ -28,6 +28,10 @@ a{
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 }
 
+img{
+	border: 0;
+}
+
 p>a,dd>a{
 	margin: 0 3px;
 	padding: 0 5px;
